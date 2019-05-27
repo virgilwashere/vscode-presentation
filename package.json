@@ -9,7 +9,7 @@
   "devDependencies": {
     "browser-sync": "^2.18.12",
     "gulp-imagemin": "^3.3.0",
-    "gulp-jshint": "^2.0.4",
+    "gulp-jshint": "^2.1.0",
     "gulp-notify": "^3.0.0",
     "gulp-nunjucks-render": "^2.2.1",
     "gulp-rename": "^1.2.2",
